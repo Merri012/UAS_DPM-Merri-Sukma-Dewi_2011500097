@@ -11,7 +11,7 @@ class MainActivity : AppCompatActivity() {
     private lateinit var dataDosen: ArrayList<Datadosen>
     private lateinit var lvDataDosen: ListView
     private lateinit var linTidakAda: LinearLayout
-U
+
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
